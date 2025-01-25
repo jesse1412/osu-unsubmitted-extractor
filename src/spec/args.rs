@@ -24,5 +24,5 @@ pub(crate) struct Args {
     pub rate_limit_per_minute: u64,
 
     #[arg(short, long)]
-    pub output_zip_path: PathBuf,
+    pub output_tar_path: PathBuf,
 }
