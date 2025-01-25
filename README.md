@@ -15,6 +15,7 @@ I don't provide raw binaries at the moment, so you'll need to compile the projec
 7. Your unsubmitted beatmaps will be packaged into the .tar file specified by the -o argument (open it with 7zip, etc).
 
 # Example run time details
+```
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Run complete
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Processed 11961 song folders
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Scanned 127820 files in song dirs
@@ -23,5 +24,6 @@ I don't provide raw binaries at the moment, so you'll need to compile the projec
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Made 254 API calls
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Tarred 687 song folders
 [2025-01-25T12:45:41Z INFO  osu_unsubmitted_extractor] Total runtime: 752s
+```
 
 Tar size: 5.82GB.
